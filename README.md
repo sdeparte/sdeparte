@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm sdeparte</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdeparte&label=Profile%20views&color=0e75b6&style=flat" alt="sdeparte" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdeparte" alt="sdeparte" /></a> </p>
-
 - 🔭 I’m currently working on [OpenERP](https://github.com/sdeparte/OpenERP)
 
 - 👨‍💻 All of my projects are available at [http://sdeparte.com/](http://sdeparte.com/)
