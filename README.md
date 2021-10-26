@@ -5,6 +5,8 @@
 
 - 👷 I’m currently working on [DomoFit_Flutter](https://github.com/sdeparte/DomoFit_Flutter) and [DomoFit_Arduino](https://github.com/sdeparte/DomoFit_Arduino)
 
+- ⏸️ Work in standby : [OpenERP](https://github.com/sdeparte/OpenERP) and [AboutMe](https://github.com/sdeparte/AboutMe)
+
 - 📚 All of my projects are available at [http://sdeparte.com/](http://sdeparte.com/)
 
 - 📫 How to reach me **sylvain.departe@gmail.com**
