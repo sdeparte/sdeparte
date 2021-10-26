@@ -3,7 +3,7 @@
 
 <hr>
 
-- 👷 I’m currently working on [OpenERP](https://github.com/sdeparte/OpenERP) and [AboutMe](https://github.com/sdeparte/AboutMe)
+- 👷 I’m currently working on [DomoFit_Flutter](https://github.com/sdeparte/DomoFit_Flutter) and [DomoFit_Arduino](https://github.com/sdeparte/DomoFit_Arduino)
 
 - 📚 All of my projects are available at [http://sdeparte.com/](http://sdeparte.com/)
 
